@@ -8,14 +8,8 @@ This project analyzes climate data spanning multiple decades to understand patte
 
 ## Datasets
 
-The project uses multiple climate datasets:
+** The project uses single climate dataset(climate_nasa.csv):
 
-- **CO₂ Data** (`archive.csv`): Historical atmospheric CO₂ measurements in parts per million (ppm)
-- **Global Temperatures** (`GlobalTemperatures.csv`): Land and ocean average temperatures
-- **Temperature by City** (`GlobalLandTemperaturesByCity.csv`): City-level temperature records
-- **Temperature by Country** (`TemperaturesByCountry.csv`): Country-level temperature data
-- **Temperature by Major City** (`TemperaturesByMajorCity.csv`): Major urban centers temperature data
-- **Temperature by State** (`TemperaturesByState.csv`): State/regional temperature records
 
 ## Key Features
 
@@ -49,7 +43,7 @@ The project uses multiple climate datasets:
 
 ## Technologies Used
 
-- **Python 3.x**
+- **Python 3.11.6
 - **pandas**: Data manipulation and analysis
 - **numpy**: Numerical computations
 - **matplotlib**: Static visualizations
