@@ -8,7 +8,7 @@ This project analyzes climate data spanning multiple decades to understand patte
 
 ## Datasets
 
-** The project uses single climate dataset(climate_nasa.csv):
+**The project uses single climate dataset(climate_nasa.csv):
 
 
 ## Key Features
