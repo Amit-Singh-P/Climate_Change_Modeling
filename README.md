@@ -6,10 +6,6 @@ A comprehensive data analysis project exploring the relationship between atmosph
 
 This project analyzes climate data spanning multiple decades to understand patterns in CO₂ emissions and temperature variations across different geographical scales. The analysis includes data visualization, correlation studies, and predictive modeling to forecast future CO₂ levels.
 
-## Datasets
-
-- The project uses single climate dataset(climate_nasa.csv):
-
 
 ## Key Features
 
